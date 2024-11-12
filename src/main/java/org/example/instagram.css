@@ -1,0 +1,16 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    margin-top: 10px;
+    margin-left: 550px;
+    border: 4px solid black;
+    border-radius: 5px;
+    position: absolute;
+    display: flex;
+    flex-flow: row wrap;
+}
